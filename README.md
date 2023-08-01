@@ -1,1 +1,2 @@
-# THL-for-Fun-Panel-QR
+# Temporal Heterogeneity Learning for Functional Panel Quantile Regressions
+Simulation Study.R : In this file, we give the R code of the simulation study. In this code, we consider two data generating scenarios to explore the performance of proposed estimators and methods under different sample size. We also give the code of the threshold approach (THR) and the Gaussian mixture cluster approach (MCL) proposed by Liebl & Walders (2019) to compare their accuracy results with our method.
